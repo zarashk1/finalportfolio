@@ -126,7 +126,7 @@ footer{
   width: 100%;
 }
 
-/* art css */
+/* fighters css */
 
 .container{
 display: grid;
@@ -154,7 +154,7 @@ img {
   text-align: center;
 }
 
-/* fun facts css */
+/* techniques css */
 
 ol h1{
   padding-top: 35px;
@@ -170,7 +170,7 @@ ol h1{
   text-align: center;
 }
 
-/* contact form css */
+/* contact css */
 
 .form{
   margin: auto;
@@ -324,7 +324,7 @@ ol h1{
     transform: rotateY(180deg);
   
      -webkit-transform: rotateY(-180deg);
-          transform: rotateY(-180deg);
+          ransform: rotateY(-180deg);
   }
 
   .gallery img:hover{
@@ -357,11 +357,11 @@ ol h1{
   padding-bottom: 20px;
   font-size: 40px;
   text-align: center;
-  color: orange;
+  color: blue;
 }
 
 ol h1{
-  color: red;
+  color: blue;
 }
 
 
